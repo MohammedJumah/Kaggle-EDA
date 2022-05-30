@@ -1,2 +1,2 @@
 # Kaggle-multi-verse
-my work on kaggle, from tutorials to projects.
+EDA projects to showcase my aility to work on things like jupyter, R, SQL...etc.
